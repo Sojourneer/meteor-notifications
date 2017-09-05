@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'gfk:notifications',
+  name: 'sojourneer:notifications',
   summary: 'Notifications - Add reactive notifications to any meteor template',
   version: '1.1.4',
-  git: 'https://github.com/gfk-ba/meteor-notifications'
+  git: 'https://github.com/Sojourneer/meteor-notifications.git'
 });
 
 Package.onUse(function(api) {
